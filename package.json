@@ -1,0 +1,14 @@
+{
+  "name": "peliculas-neon-gratis",
+  "version": "2.0.0",
+  "private": true,
+  "description": "Webapp pública de películas con PostgreSQL/Supabase y despliegue gratuito en Render",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0",
+    "pg": "^8.16.3"
+  }
+}
